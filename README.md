@@ -1,0 +1,2 @@
+# GANbook
+DCGAN Pytorch faces 
